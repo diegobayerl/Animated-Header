@@ -1,5 +1,8 @@
 # OSX
 #
+androi/**/*
+ios/**/*
+
 .DS_Store
 
 # Xcode
