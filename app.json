@@ -1,0 +1,12 @@
+{
+  "name": "headerAnimated",
+  "displayName": "headerAnimated",
+  "expo": {
+    "name": "headerAnimated",
+    "slug": "headerAnimated",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
